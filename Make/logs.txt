@@ -1,0 +1,174 @@
+[24-Jun-23 19:06:35 - INFO] - AnonX.core.dir - Directories Updated.
+[24-Jun-23 19:06:41 - INFO] - AnonX.core.git - Fetching updates from AnonXMusic...
+[24-Jun-23 19:06:41 - INFO] - AnonX.misc - Database Initialized.
+[24-Jun-23 19:06:42 - INFO] - AnonX.misc - Sudo Users Loaded Successfully.
+[24-Jun-23 19:06:42 - INFO] - AnonX.core.bot - Starting Bot...
+[24-Jun-23 19:06:43 - WARNING] - AnonX - Sur spotify id aur secret toh daala hi nahi aapne ab toh spotify se nahi chala paaoge gaane.
+[24-Jun-23 19:10:51 - INFO] - AnonX.core.dir - Directories Updated.
+[24-Jun-23 19:10:51 - INFO] - AnonX.core.git - Git Client Found [VPS DEPLOYER]
+[24-Jun-23 19:10:51 - INFO] - AnonX.misc - Database Initialized.
+[24-Jun-23 19:10:52 - INFO] - AnonX.misc - Sudo Users Loaded Successfully.
+[24-Jun-23 19:10:52 - INFO] - AnonX.core.bot - Starting Bot...
+[24-Jun-23 19:10:52 - WARNING] - AnonX - Sur spotify id aur secret toh daala hi nahi aapne ab toh spotify se nahi chala paaoge gaane.
+[24-Jun-23 19:11:55 - INFO] - AnonX.core.dir - Directories Updated.
+[24-Jun-23 19:11:55 - INFO] - AnonX.core.git - Git Client Found [VPS DEPLOYER]
+[24-Jun-23 19:11:55 - INFO] - AnonX.misc - Database Initialized.
+[24-Jun-23 19:11:56 - INFO] - AnonX.misc - Sudo Users Loaded Successfully.
+[24-Jun-23 19:11:56 - INFO] - AnonX.core.bot - Starting Bot...
+[24-Jun-23 19:11:57 - WARNING] - AnonX - Sur spotify id aur secret toh daala hi nahi aapne ab toh spotify se nahi chala paaoge gaane.
+[24-Jun-23 19:14:40 - INFO] - AnonX.core.dir - Directories Updated.
+[24-Jun-23 19:14:40 - INFO] - AnonX.core.git - Git Client Found [VPS DEPLOYER]
+[24-Jun-23 19:14:40 - INFO] - AnonX.misc - Database Initialized.
+[24-Jun-23 19:14:41 - INFO] - AnonX.misc - Sudo Users Loaded Successfully.
+[24-Jun-23 19:14:41 - INFO] - AnonX.core.bot - Starting Bot...
+[24-Jun-23 19:14:42 - WARNING] - AnonX - Sur spotify id aur secret toh daala hi nahi aapne ab toh spotify se nahi chala paaoge gaane.
+[24-Jun-23 19:14:44 - ERROR] - AnonX.core.bot - Please promote Bot as Admin in Logger Group
+[24-Jun-23 19:15:28 - INFO] - AnonX.core.dir - Directories Updated.
+[24-Jun-23 19:15:28 - INFO] - AnonX.core.git - Git Client Found [VPS DEPLOYER]
+[24-Jun-23 19:15:28 - INFO] - AnonX.misc - Database Initialized.
+[24-Jun-23 19:15:29 - INFO] - AnonX.misc - Sudo Users Loaded Successfully.
+[24-Jun-23 19:15:29 - INFO] - AnonX.core.bot - Starting Bot...
+[24-Jun-23 19:15:30 - WARNING] - AnonX - Sur spotify id aur secret toh daala hi nahi aapne ab toh spotify se nahi chala paaoge gaane.
+[24-Jun-23 19:15:32 - INFO] - AnonX.core.bot - MusicBot Started as bot_telh
+[24-Jun-23 19:15:32 - INFO] - AnonX.plugins - Necessary Modules Imported Successfully.
+[24-Jun-23 19:15:32 - INFO] - AnonX.core.userbot - Gettings Assistants Info...
+[24-Jun-23 19:15:34 - INFO] - AnonX.core.userbot - Assistant Started as ASSIST FOR DADY
+[24-Jun-23 19:15:34 - ERROR] - AnonX.core.userbot - Assistant Account 1 has failed to access the log Group. Make sure that you have added your assistant to your log group and promoted as admin ! 
+[24-Jun-23 19:16:27 - INFO] - AnonX.core.dir - Directories Updated.
+[24-Jun-23 19:16:27 - INFO] - AnonX.core.git - Git Client Found [VPS DEPLOYER]
+[24-Jun-23 19:16:27 - INFO] - AnonX.misc - Database Initialized.
+[24-Jun-23 19:16:28 - INFO] - AnonX.misc - Sudo Users Loaded Successfully.
+[24-Jun-23 19:16:28 - INFO] - AnonX.core.bot - Starting Bot...
+[24-Jun-23 19:16:29 - WARNING] - AnonX - Sur spotify id aur secret toh daala hi nahi aapne ab toh spotify se nahi chala paaoge gaane.
+[24-Jun-23 19:16:31 - INFO] - AnonX.core.bot - MusicBot Started as bot_telh
+[24-Jun-23 19:16:31 - INFO] - AnonX.plugins - Necessary Modules Imported Successfully.
+[24-Jun-23 19:16:31 - INFO] - AnonX.core.userbot - Gettings Assistants Info...
+[24-Jun-23 19:16:33 - INFO] - AnonX.core.userbot - Assistant Started as ASSIST FOR DADY
+[24-Jun-23 19:16:34 - INFO] - AnonX.core.call - Starting Assistants...
+
+[24-Jun-23 19:16:48 - INFO] - AnonX - AnonX Music Bot Started Successfully...
+
+Now drop your girlfriend's nudes at @DevilsHeavenMF
+[24-Jun-23 19:16:59 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[24-Jun-23 19:17:08 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[24-Jun-23 19:34:51 - CRITICAL] - pyrogram.syncer - database or disk is full
+Traceback (most recent call last):
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database or disk is full
+[24-Jun-23 19:34:52 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-5425' coro=<Client.handle_updates() done, defined at /home/dad/.local/lib/python3.8/site-packages/pyrogram/client.py:525> exception=OperationalError('database or disk is full')>
+Traceback (most recent call last):
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/client.py", line 527, in handle_updates
+    is_min = (await self.fetch_peers(updates.users)) or (await self.fetch_peers(updates.chats))
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/client.py", line 493, in fetch_peers
+    await self.storage.update_peers(parsed_peers)
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/storage/sqlite_storage.py", line 134, in update_peers
+    self.conn.executemany(
+sqlite3.OperationalError: database or disk is full
+[24-Jun-23 19:34:52 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-5429' coro=<Client.handle_updates() done, defined at /home/dad/.local/lib/python3.8/site-packages/pyrogram/client.py:525> exception=OperationalError('database or disk is full')>
+Traceback (most recent call last):
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/client.py", line 527, in handle_updates
+    is_min = (await self.fetch_peers(updates.users)) or (await self.fetch_peers(updates.chats))
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/client.py", line 493, in fetch_peers
+    await self.storage.update_peers(parsed_peers)
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/storage/sqlite_storage.py", line 134, in update_peers
+    self.conn.executemany(
+sqlite3.OperationalError: database or disk is full
+[24-Jun-23 19:34:52 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-5433' coro=<Client.handle_updates() done, defined at /home/dad/.local/lib/python3.8/site-packages/pyrogram/client.py:525> exception=OperationalError('database or disk is full')>
+Traceback (most recent call last):
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/client.py", line 527, in handle_updates
+    is_min = (await self.fetch_peers(updates.users)) or (await self.fetch_peers(updates.chats))
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/client.py", line 493, in fetch_peers
+    await self.storage.update_peers(parsed_peers)
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/storage/sqlite_storage.py", line 134, in update_peers
+    self.conn.executemany(
+sqlite3.OperationalError: database or disk is full
+[24-Jun-23 19:37:41 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[24-Jun-23 19:37:46 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[24-Jun-23 19:38:18 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[24-Jun-23 19:38:22 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[24-Jun-23 19:38:31 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[24-Jun-23 19:38:33 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[24-Jun-23 19:38:35 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[24-Jun-23 19:38:36 - ERROR] - pyrogram.dispatcher - gen_thumb() missing 1 required positional argument: 'user_id'
+Traceback (most recent call last):
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/dispatcher.py", line 222, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/home/dad/kosa/source/AnonX/utils/decorators/admins.py", line 121, in wrapper
+    return await mystic(client, message, _, chat_id)
+  File "/home/dad/kosa/source/AnonX/plugins/skip.py", line 214, in skip
+    img = await gen_thumb(videoid)
+TypeError: gen_thumb() missing 1 required positional argument: 'user_id'
+[24-Jun-23 19:38:40 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[24-Jun-23 19:39:35 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[24-Jun-23 19:39:42 - INFO] - httpx - HTTP Request: POST https://www.youtube.com/youtubei/v1/search?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8 "HTTP/1.1 200 OK"
+[24-Jun-23 20:29:34 - INFO] - AnonX.core.dir - Directories Updated.
+[24-Jun-23 20:29:34 - INFO] - AnonX.core.git - Git Client Found [VPS DEPLOYER]
+[24-Jun-23 20:29:34 - INFO] - AnonX.misc - Database Initialized.
+[24-Jun-23 20:29:35 - INFO] - AnonX.misc - Sudo Users Loaded Successfully.
+[24-Jun-23 20:29:35 - INFO] - AnonX.core.bot - Starting Bot...
+[24-Jun-23 20:29:37 - WARNING] - AnonX - Sur spotify id aur secret toh daala hi nahi aapne ab toh spotify se nahi chala paaoge gaane.
+[24-Jun-23 20:36:19 - INFO] - AnonX.core.dir - Directories Updated.
+[24-Jun-23 20:36:19 - INFO] - AnonX.core.git - Git Client Found [VPS DEPLOYER]
+[24-Jun-23 20:36:19 - INFO] - AnonX.misc - Database Initialized.
+[24-Jun-23 20:36:20 - INFO] - AnonX.misc - Sudo Users Loaded Successfully.
+[24-Jun-23 20:36:20 - INFO] - AnonX.core.bot - Starting Bot...
+[24-Jun-23 20:36:20 - WARNING] - AnonX - Sur spotify id aur secret toh daala hi nahi aapne ab toh spotify se nahi chala paaoge gaane.
+[24-Jun-23 20:36:22 - INFO] - AnonX.core.bot - MusicBot Started as bot_telh
+[24-Jun-23 20:36:23 - INFO] - AnonX.plugins - Necessary Modules Imported Successfully.
+[24-Jun-23 20:36:23 - INFO] - AnonX.core.userbot - Gettings Assistants Info...
+[24-Jun-23 20:36:25 - INFO] - AnonX.core.userbot - Assistant Started as ASSIST FOR DADY
+[24-Jun-23 20:36:25 - INFO] - AnonX.core.call - Starting Assistants...
+
+[24-Jun-23 20:36:26 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-52108' coro=<Client.handle_updates() done, defined at /home/dad/.local/lib/python3.8/site-packages/pyrogram/client.py:525> exception=OperationalError('database is locked')>
+Traceback (most recent call last):
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/client.py", line 527, in handle_updates
+    is_min = (await self.fetch_peers(updates.users)) or (await self.fetch_peers(updates.chats))
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/client.py", line 493, in fetch_peers
+    await self.storage.update_peers(parsed_peers)
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/storage/sqlite_storage.py", line 134, in update_peers
+    self.conn.executemany(
+sqlite3.OperationalError: database is locked
+[24-Jun-23 20:36:33 - CRITICAL] - pyrogram.syncer - database is locked
+Traceback (most recent call last):
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/syncer.py", line 72, in worker
+    await asyncio.wait_for(cls.event.wait(), cls.INTERVAL)
+  File "/usr/lib/python3.8/asyncio/tasks.py", line 501, in wait_for
+    raise exceptions.TimeoutError()
+asyncio.exceptions.TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/syncer.py", line 84, in sync
+    await client.storage.save()
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/storage/sqlite_storage.py", line 120, in save
+    await self.date(int(time.time()))
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/storage/sqlite_storage.py", line 205, in date
+    return self._accessor(value)
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/storage/sqlite_storage.py", line 193, in _accessor
+    return self._get() if value == object else self._set(value)
+  File "/home/dad/.local/lib/python3.8/site-packages/pyrogram/storage/sqlite_storage.py", line 187, in _set
+    self.conn.execute(
+sqlite3.OperationalError: database is locked
